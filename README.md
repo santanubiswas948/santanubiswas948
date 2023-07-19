@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanubiswas948&label=Profile%20views&color=0e75b6&style=flat" alt="santanubiswas948" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santanubiswas948" alt="santanubiswas948" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/santanu-biswas-50312aa8/](https://www.linkedin.com/in/santanu-biswas-50312aa8/)
 
 - 📝 I regularly write articles on [https://medium.com/@biswassantanu1996](https://medium.com/@biswassantanu1996)
