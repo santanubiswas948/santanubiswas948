@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/santanu-biswas-50312aa8/](https://www.linkedin.com/in/santanu-biswas-50312aa8/)
 
 - 📝 I regularly write articles on [https://medium.com/@biswassantanu1996](https://medium.com/@biswassantanu1996)
+- 📝 I regularly write articles on [https://dev.to/santanu_biswas](https://dev.to/santanu_biswas)
 
 - 💬 Ask me about **react, Javascript, Typescript, html, css, css modules, Sass, tailwind css etc.**
 
